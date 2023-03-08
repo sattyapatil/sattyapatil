@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sattyapatil
 - 👀 I’m interested in technologies AI, ML, IOT and EV
-- 🌱 I’m currently learning Data Science
+- 🌱 I’m currently learning Prompt Engineering
 - 💞️ I’m looking to collaborate on AI project
 
 <!---
